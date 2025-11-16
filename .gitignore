@@ -1,0 +1,46 @@
+# Node Modules
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Hardhat Build Files
+cache/
+artifacts/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+coverage.json
+lcov.info
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+
+# TypeScript build
+dist/
+tsconfig.tsbuildinfo
+
+# Assets (editable or raw design files)
+*.psd
+*.xcf
+*.ai
+*.eps
+
+# Temp Files
+tmp/
+temp/
