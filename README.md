@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
 # 🪙 MyToken – Fully Self-Contained ERC-20 Token (No Imports)
 
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)
